@@ -8,8 +8,9 @@ I am a Ph.D. candidate at the University of Southern California under the superv
 
 ## Research Interests
 
-- **Domain-Informed Machine Learning of Surface Manifold Data:** characterization, model and learning
-- **Digital Twin Systems:** smart manufacturing and healthcare
+- Domain-informed machine learning of surface manifold data.
+- Digital twin systems in smart manufacturing and healthcare.
+# - **Digital Twin Systems:** smart manufacturing and healthcare
 
 ## News
 
