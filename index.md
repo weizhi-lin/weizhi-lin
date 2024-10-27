@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. candidate at the University of Southern California under the supervision of Prof. Qiang Huang, with plans to graduate in Spring 2025.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Domain-Informed Machine Learning of Surface Manifold Data:** characterization, model and learning
+- **Digital Twin Systems:** smart manufacturing and healthcare
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2024]** Best Poster Winner! QSR Student Poster Competition, 2024 Annual INFORMS Conference, The title of the poster was “Automated Surface Patch Extraction for 3D Printing Qualification”
+
 
 {% include_relative _includes/publications.md %}
 
