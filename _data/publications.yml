@@ -8,7 +8,7 @@ main:
     code: ""
     page: ""
     bibtex: ""
-    image: "./assets/img/teaser_example_2.png"
+    image: "./assets/img/CIRP.png"
 
   - title: "Automated Deviation-Aware Landmark Selection for Freeform Product Accuracy Qualification in 3D Printing"
     authors: "<strong>Weizhi Lin</strong>, Qiang Huang*"
@@ -19,7 +19,7 @@ main:
     page: ""
     bibtex: ""
     notes: ""
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/lmk.png"
 
   - title: "Multiresolution Functional Characterization and Correction of Biofouling for Improved Biosensing Efficacy"
     authors: "<strong>Weizhi Lin</strong>, Cesar Ruiz, Matan Aroosh, Hadar Ben-Yoav, Qiang Huang*"
@@ -30,7 +30,7 @@ main:
     page: ""
     bibtex: ""
     notes: ""
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/Biofouling.png"
 
   - title: "Shape Deviation Generator (SDG) — A Convolution Framework for Learning and Predicting 3D Printing Shape Accuracy"
     authors: "Qiang Huang*, Yuanxiang Wang, Mingdong Lyu, <strong>Weizhi Lin</strong>"
@@ -41,4 +41,4 @@ main:
     page: ""
     bibtex: ""
     notes: ""
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/SDG.png"
