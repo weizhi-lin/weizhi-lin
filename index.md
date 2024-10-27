@@ -18,4 +18,3 @@ I am a Ph.D. candidate at the University of Southern California under the superv
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
